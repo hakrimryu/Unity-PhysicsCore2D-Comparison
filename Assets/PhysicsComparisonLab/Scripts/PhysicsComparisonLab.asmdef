@@ -1,0 +1,10 @@
+{
+  "name": "PhysicsComparisonLab",
+  "rootNamespace": "PhysicsComparisonLab",
+  "references": [
+    "Unity.Collections",
+    "Unity.2D.PixelPerfect",
+    "Unity.ugui",
+    "Unity.InputSystem"
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "files": [
+    {
+      "path": "Assets/InputSystem_Actions.inputactions",
+      "sha256": "1C6CBB519D65ECFE19A29231735B7F54741A20AC1A8AD4F46A18E1BFB28A3C39"
+    },
+    {
+      "path": "Assets/InputSystem_Actions.inputactions.meta",
+      "sha256": "1B66C43410ACB6C1B09DCF3835C010EAAE6FD89A75D67797F96B2B0EB8FBB9C1"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab.meta",
+      "sha256": "451ADB9C61AD8D798050DCB611181D6E4DD75C297F4E8547CF5F7C4D889629B8"
+    },
+    {
+      "path": "Assets/Scenes.meta",
+      "sha256": "DBC959292BD6ADF56553CDC768A1803700B86CFA99BFD08D9FF66727CC90F9AB"
+    },
+    {
+      "path": "Assets/Screenshots.meta",
+      "sha256": "43ABD78E188A21D5E121BE0A6AD6EFE8B906FB564DAD36DFF2EE7E2EBE1B7CD7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art.meta",
+      "sha256": "1A97E18AE587F754112451C5181D718111FCD9F17F8446C77A40CF507AF673A7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data.meta",
+      "sha256": "6B8E836166F2C5F3CFC853B4E4BDE5357A3B528E5B8606FCA3918423CB3F6EAD"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Palettes.meta",
+      "sha256": "89902267B0242BC680A1BE01437C9D48EFA77090298F7C99BB6999627915C49F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Resources.meta",
+      "sha256": "C009D0A41CEFC53B1648AB42575D7653F9A18E522CE6A2D74A475766EF3218C8"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scenes.meta",
+      "sha256": "B715D23BA5F702739233DC1273763D4817A9761FEB44ABA0825EBA92A9F08889"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts.meta",
+      "sha256": "BB0F434470375B49B95E68230F09B825549DE205F6D52DBDD80CC8F823EB375E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests.meta",
+      "sha256": "2FB45CF237C9DE096FC5A437A88EDDCAAD1C0F1F7F1125B858494B541E28840B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters.meta",
+      "sha256": "3CFB61EE9CA6F4639C26C224AF2660CA626172B9F4B246952291C3CDBD568506"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment.meta",
+      "sha256": "978A3CBAC6E3472B98CC9477FE9E3BFDED5E3BEFFCC70BD85A40400E94D18AB4"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI.meta",
+      "sha256": "6F5C11E98A1A003854822BC6913B82DD9B7B21C1C1A309F7863FE57159C31E5E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc.meta",
+      "sha256": "1E4880FFC93F615CB93FBC17B8FC0163AE72D7DD24CA72DF9CE725B073D500D0"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier.meta",
+      "sha256": "C8031B4945E0653E880989A6625D77003375486978C80235F1D7C9D198081271"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Attack01.png",
+      "sha256": "642BD0DF611ABF91DDA5ADF2F6061A2D8DECC7997F8277D681AF6693B6A0F9A7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Attack01.png.meta",
+      "sha256": "D19EA022E2B69FDD57C516D724BD00C22ED7E138FB718FC5662B256991B06533"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Death.png",
+      "sha256": "CF376C07465CD284A838ED0ABC977823FAA92E0AA4F9DB0461E33B11143CC13F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Death.png.meta",
+      "sha256": "15A23EF2ABB9EB150FF5A249390B43EC4AE79070314DDA5D0260E2F29FE07F05"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Idle.png",
+      "sha256": "430B6A97CA4CFA80998D53422F3E942CD50CA906335C350E5615651F35C7AEF4"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Idle.png.meta",
+      "sha256": "B5E66A0723EB7DC40DC6A28E10E70D2079F1A8C647EF0836BD8DD1D3634FAE38"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Walk.png",
+      "sha256": "6D892FFD6E8FCCEA65480F89E29EF145FAAA05CC742534717023237093F500D7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Orc/Orc_Walk.png.meta",
+      "sha256": "23C634C6CE3AA96CFAA9CAAFE67B851B1E3EF06D11269F361B37507ABCCFB116"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Attack01.png",
+      "sha256": "907F5BD89B18492E7051FF3B1014A687FB8FFA501AC4486A24A1F58D198B4B20"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Attack01.png.meta",
+      "sha256": "977EDA5275FAB6E7630D39D763345CA1768C7815647035E4204EF3FC08F9218A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Death.png",
+      "sha256": "2968064E9692C43F7E4941A0106E5B370471F0E9BEAEDC5C40631D9DAEB4C84E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Death.png.meta",
+      "sha256": "3AA575E5BF713EC5B27ADA75F1B34B278F8722B15FE3A558CDB811D6D390B93C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Idle.png",
+      "sha256": "572776014E1B348E8386CE587855C53E3EBD84B8FBE9041F680A917A9D3B955A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Idle.png.meta",
+      "sha256": "D9A4053C9CA1BF8CA8B16A4B72EA8B02556F9027F26F3E082E261FEA285490FC"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Walk.png",
+      "sha256": "47AD61833E22238123B591B11D985E08858BFB5098348ADEE496FECB41E54954"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Characters/Soldier/Soldier_Walk.png.meta",
+      "sha256": "478D5F17A5277B22B9C9B8F613F1560017D7B473DAE652778B961EDE6567A751"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props.meta",
+      "sha256": "BF608970DDB8B1205A8137DA1569AD6E84D4364A019EB132442B813A3C9F0679"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Tiles.meta",
+      "sha256": "AEC869899A80695FD31191CB732A34CBD09F3197BFDAABD253D507EAA3D605FE"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Bushe1.png",
+      "sha256": "38EA6583E856D4670CE43B843AAA3EF3E675B351B02353118F04B01BA3DAA4EB"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Bushe1.png.meta",
+      "sha256": "74FFB677D0FEA93371F3F4242A5ED003C2067D82D1DCC22DC81C942EA25430FA"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Rock1.png",
+      "sha256": "DE9F1D954577003E278BAE7EE71338C76B4799C9AABF34A002219CA2C67C7C00"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Rock1.png.meta",
+      "sha256": "5A52936E5E07BE916775264178448EFB4D2E69920F3E8C2429EE1A9C823BE8A6"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Rock2.png",
+      "sha256": "A121425512AD1CF3A10B5731F507BEED83507D2E7B5D180AA32F0D967E81299C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Rock2.png.meta",
+      "sha256": "4084693745E489837B6F4110A65603B7E3BC03C6A42C42DAEAE37D58CC825752"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Tree1.png",
+      "sha256": "EE3F285F992842987DF5AAE0E07A364A7A535E78D605F6D469115559E87DF7E5"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Props/Tree1.png.meta",
+      "sha256": "5C3081FFD500559D500460F1D5F280F2410FE38BC9B9B1730A74E6F0BEFECD87"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Tiles/Tilemap_color1.png",
+      "sha256": "3AE8F00B92B4ECD46B63B14AD4117FDDA42AFCF485F340724DB033F0E229BE8E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/Environment/Tiles/Tilemap_color1.png.meta",
+      "sha256": "5A0797478C920D4472B944C17CA44CAA82175724E14F5401A42FD3909C94298B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Pressed_Continuous.png",
+      "sha256": "3DB2AB0CB6F0C3E0A539C2940454AB1F3A2DEDF39B9B7D5B2E4B797DEA5EAC91"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Pressed_Continuous.png.meta",
+      "sha256": "FBEDADE9342905BFDC7B83560E4B6FC89EAD07D0F8FE08E05F25174937FCD5A2"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Pressed.png",
+      "sha256": "6D4108619670A1E10BB3A684A15E65834724D3B96907EA72CE8CDF1909A1CA8D"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Pressed.png.meta",
+      "sha256": "D8F8521D87C63BE5E46CC307F8B14A84EA88EFC324C93B4F67E09C22EFCE2B73"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Regular_Continuous.png",
+      "sha256": "D785AFE7A694F1D7F1829AD202976F1BAAA457E9915AB83CC81967C4294B3768"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Regular_Continuous.png.meta",
+      "sha256": "A3E5151EEF889C551999B8413ECB81877DD7F08618EFEE6B13773ED4B84807A0"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Regular.png",
+      "sha256": "70D504CCD5F414B9D894F067883D3AB4F575A143504B87D3583E60922BC563C8"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigBlueButton_Regular.png.meta",
+      "sha256": "C9BB3B77A219AB744AC6930EB0C7078D248851DEAD7CDA9A1EB46DA47AFF8CDD"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Pressed_Continuous.png",
+      "sha256": "0A4CD337DA57508528EF3D9BB4586314BA2F68B957E07EAB0906CE3D53B64141"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Pressed_Continuous.png.meta",
+      "sha256": "BD0356DD9920305F65EBA9E365CC992BB5261A3745729B39808AD99A6BD07FE6"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Pressed.png",
+      "sha256": "33B6D42455AA10D66EFC02FBB855CE96A558263601B3BA3C74CE6C61844A857D"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Pressed.png.meta",
+      "sha256": "2DC7BD354B77FC0DCEA1BA1336C206DEB0D6C0356570D5E8E68A801A8C477F2F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Regular_Continuous.png",
+      "sha256": "3CEA73228E365ACEEFA9EB6EC3AD9CFE8D9161F13A2E0C95F76D102F21C94B6B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Regular_Continuous.png.meta",
+      "sha256": "25CBC07A7CC5B17DDAC47E0177E6656144FEF6952CDDF6F76B23DF60DE63B7E9"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Regular.png",
+      "sha256": "F68A753C9CB974B9B8A4AF83804A7952A8EF1532EF5441449102660119209B81"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/BigRedButton_Regular.png.meta",
+      "sha256": "B031944082A3F7FFEB042FD37BEBB2A2CA99838F024500323F164B2C1AD72F43"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/RegularPaper_Continuous.png",
+      "sha256": "BF14255F1FD1CE06D7937EFE9B28BC3C227F5EA0E66BCE0FEFB0717BA9319C92"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/RegularPaper_Continuous.png.meta",
+      "sha256": "6B911D9435AE5069DF8CFAC273D6E3DE12957754E4D11DF1B778EBABCC96AA2F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/RegularPaper.png",
+      "sha256": "4A91BBDE509AF741580E514961ED25DD309695536046536B600AB63BEC080A1E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Art/UI/RegularPaper.png.meta",
+      "sha256": "DA69C5BB3361E859D08E02BD1E335349F6DF3B73448DB61CDA84A22874DF488C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Bushe1.asset",
+      "sha256": "25C1C7654DC73CB6F6B3E03B11CA309AFA183C73E4070DB866865F50A55C0755"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Bushe1.asset.meta",
+      "sha256": "05AC00188CF31B894B7C16D629EEAFC21493BBA86D98CA65633C79A73190D5D3"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Rock1.asset",
+      "sha256": "1F88ACD8E86F05F219592410ED67AECC037D43CC36F32CE89F6E4D7C6FB18B85"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Rock1.asset.meta",
+      "sha256": "F9D7E4C35750FCD56E56084901E4D3EC2A73F3E9BC4EC9ED42ECB35353945022"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Rock2.asset",
+      "sha256": "C30EE13FDC6777AE8A64B84FD88668E2E57EAD34824F92334D00741E6267914B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Rock2.asset.meta",
+      "sha256": "2627E0507ADBB202C801F1AD8400851A217CFEABDD6767FF7D4A50647CE4D91F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Tree1.asset",
+      "sha256": "28CB92AAD495209A3BE851803C73C0485E91047BA524AECCC463F2B3724D3333"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Decoration_Tree1.asset.meta",
+      "sha256": "BDEC18D59DABD382066ACE6FF26B4E6619F76BE4FE39E6E0A1B547571769BCCF"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_0.asset",
+      "sha256": "22AE9EA4864965F0DEDD4974086CC6D0BE16F034000847E0F186D2DA4C807DF1"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_0.asset.meta",
+      "sha256": "B6B89D8F8B08B760277D3E0A7FA3FEE5426373A46E9FC799A7B2901443B388B4"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_1.asset",
+      "sha256": "AB282BD6506F124196F53EB5CD1638AEF7A5838D08845B3DAF9C8C34834F57CD"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_1.asset.meta",
+      "sha256": "340177EFA7293C224C79573666155EB7B8E625F46548A35A5BEAF4DFF8A9E962"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_10.asset",
+      "sha256": "3AEE6B2F47FA49CD84338AFBA0ECE8F1B801BB2522405546576BEB7A6E3DE179"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_10.asset.meta",
+      "sha256": "53F89C709690E27A4CF26636F313905686286B738E6482DED31415A0876F1400"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_11.asset",
+      "sha256": "2623505B598EA1ECFA9FDC658955DD01EBADAFF0573D314166D986E6D93292B2"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_11.asset.meta",
+      "sha256": "82ECA6A9F7ABEF55DA79105266CA6596919254EF05B7042D88D1AD643B0D7DC9"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_18.asset",
+      "sha256": "F97F50C7094BDC07C7BA03D3EDA99706E5285DBCE9FCA5A07325B91766AA0EE9"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_18.asset.meta",
+      "sha256": "4D18266CBA35AA5598AF9E5910D8D19A5A89D811993EAD524C825A4A4BC6D158"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_19.asset",
+      "sha256": "835CC0C538CA8188F39986EC788A5E848E79BD500070772A956C26BFCA0D85D1"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_19.asset.meta",
+      "sha256": "0D5281C73164FFD14A2E03EF79BFCEF4E35E110238AA33A69CCDC11CA4B3DD79"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_2.asset",
+      "sha256": "03BA4EBCAC5D6D067128D5DE15EC3023E8FD26B9950456466E498999DC110D72"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_2.asset.meta",
+      "sha256": "2395E764C5D6C0B9857941A98843DFAEBB64DF682347EE03FCF8E82EDAA1CD94"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_20.asset",
+      "sha256": "38F197CB92B6C04B39BC7F0DE771BD7A89BBB57D1C3B5A3B5AD40B52B6879D92"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_20.asset.meta",
+      "sha256": "B3EE85DB00823CF9ED0137EFC0FD3B96487792556575C492FDE890C20DA31B53"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_9.asset",
+      "sha256": "A68C9259C4CB2DE65B9C30EA0B5F4E5727C3BB0F30D81395DEE79E73A05F5D70"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/Grass_9.asset.meta",
+      "sha256": "DF3E4CC6C5A2BC5935EDC2E1A10BEA0CDFF956683B5B12EB8078CCFF97BACDED"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/OrcAnimation.asset",
+      "sha256": "C21BDCFA46F4BB652C982CE32235384CF7506DD3F465C5150D88A5331565367F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/OrcAnimation.asset.meta",
+      "sha256": "FF63C02799FEB11D8AE9AE237963047290625AC88F802B6515FB9CDD32E325A7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/SoldierAnimation.asset",
+      "sha256": "3F0349544E8A54F4A850C10A2F52732618B8B0B8B3142F214DBBF68D91769E38"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Data/SoldierAnimation.asset.meta",
+      "sha256": "A1D7D0D33E5D2EA1AD9F53E8679EF7E8C3AAF72E8B7D91B9C30BC81C2EE31C4A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Palettes/Battle_Decorations.prefab",
+      "sha256": "3208C08AFCE62CFD610E790C37F90AEDA8BB60F6B147A433AA3AF3431A37807B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Palettes/Battle_Decorations.prefab.meta",
+      "sha256": "2DEBC452869E426F226EAF759E5DE8D13F1A1B1AA926AB31A7463A7870FD64B1"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Palettes/Battle_Grass.prefab",
+      "sha256": "84C7C00D8944C337EC648B3058B6C4CCCC07B45761DF64B036B7D43956152079"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Palettes/Battle_Grass.prefab.meta",
+      "sha256": "630B0FF81D33B85527181586C3E6AC508B5142511AACA03B75081A1F9025FEDB"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Resources/BattleUnits.shader",
+      "sha256": "903302010C1C53320B158D1EA59FCE6E5DD5ACB554FFC3F756F1765B1CD8CF7C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Resources/BattleUnits.shader.meta",
+      "sha256": "63BAD08057960FBDD841BD89BEDB7CC6AC0EC906D6ACDCA5E9379B34AD69ACF8"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scenes/BattleComparison.unity",
+      "sha256": "7A4844A2F00C8C9AB5D9FEBE0AE3A3C811153BF76C5199CD4B9813C0049AC798"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scenes/BattleComparison.unity.meta",
+      "sha256": "5EB6D503499E988E05B6CAF268C76E73BAFC536B06B528000E9F8FDFBFF80C3E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/AssemblyInfo.cs",
+      "sha256": "719ED23ACEF6494BAFFAAF02441DE771AE4A57713FAF1B47D92EE7F04B08159B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/AssemblyInfo.cs.meta",
+      "sha256": "14165652DD704F4F1075A349E27F21F9775E0C4468722B7FAD12CA42DBEF2740"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle.meta",
+      "sha256": "73F1C6716EA9E7DB46621EA086525A85AA52F090E1DBB2CBC932262D5EDDF6E6"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics.meta",
+      "sha256": "76A04FC7F425B7FE6EE164B18A837F74F41E477C292C49338DD5C80C2B1F2750"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/PhysicsComparisonLab.asmdef",
+      "sha256": "F393938F880A289F2E3B96597478F579C8E1B8A0239578A886E5176E2970E728"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/PhysicsComparisonLab.asmdef.meta",
+      "sha256": "20E605B2290A5632D926C7D5D0E770CDBA36B60A144F4585B8BAE3935929E41E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation.meta",
+      "sha256": "957512297CEEBA767449B7F3DBD478CD21E708B8550B542404CA38BC18FEE31A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleInput.cs",
+      "sha256": "A4F23811D56EA6B50C5651C07CD57CEB0D271908F55FF26C042A1D4B671032CB"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleInput.cs.meta",
+      "sha256": "DC21F08340F1B0D9B3A3217EC8B14A75EA6B35E17B1AF621C595C10A5E11F9F6"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleSettings.cs",
+      "sha256": "7AE1255E63E9803EA0C86999B5CD0DCF0FB46F15397D5117376B8E064F719117"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleSettings.cs.meta",
+      "sha256": "FFE221EE7AF098B09A5A4CDC283B71298BFA8FF4D730616E4D8A608C9306C83F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleSimulation.cs",
+      "sha256": "159F918D51F44E40FBA60826051CE41272E0DE9CFC488BB02E6D4CA257296D58"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleSimulation.cs.meta",
+      "sha256": "CF711AAF50F5F6AFDFF5CDBCCE6D238D586D333395781C58F856548B8C7F5E98"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleTargetIndex.cs",
+      "sha256": "1033A972742D55892B2CB0FE49561B2692A2455ACEEFFC19AAD0EB82FEDAE0BB"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/BattleTargetIndex.cs.meta",
+      "sha256": "3623BA76426EA4AE04B779299A35C594A16CFE6B2BB9A963708D0860C556E32B"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/ComparisonMeasurement.cs",
+      "sha256": "0B2272AF73EF91088249F0356F766B46A92F30A5F5AE10D79A290F4DF74AD51E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/ComparisonMeasurement.cs.meta",
+      "sha256": "084D3134EAA91277CCCBDE1998568433B5E35552ED1DB3B79BCD0DA5A2D66725"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/UnitState.cs",
+      "sha256": "E75910E3C25247E17D5DBB6DB533CB8E3A048CC1FA8F070040BD741A97AF8371"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Battle/UnitState.cs.meta",
+      "sha256": "8FCC3D0F40E058C82DC4E2C4CA65ADC5749968B7BB1B6D6526F265507B71D613"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Core.meta",
+      "sha256": "C08B9AFC5B458CAD0A2485B0B933793DBB96AFD656533744A61F1BF8D984189E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/IPhysicsSimulation.cs",
+      "sha256": "C5825DD19DE310CDA0724574767BBAC7EAED784535386730AC4B2EB0635BBAA9"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/IPhysicsSimulation.cs.meta",
+      "sha256": "921DD740CDDB9DDADD9949FE9F7234CA50DEA87731FA92683E2D9C435B4B8830"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Legacy.meta",
+      "sha256": "13F394156153ED1198339D1FB93C12BE81B56A98B5C4DC18137BC340628FADF2"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Core/CorePhysicsSimulation.cs",
+      "sha256": "34715E46AEF37152CD9DB4DEB548717051874BA2966932221294B1DBBECE6E98"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Core/CorePhysicsSimulation.cs.meta",
+      "sha256": "4137E2C49AD4DC5321E1782339E89F31E781F3F188F03B18DA85C7139BE9A7BD"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Legacy/LegacyPhysicsSimulation.cs",
+      "sha256": "4CCF9761D4C9B295ADB2E9C1FBA94AE97AE26A5073A4A4099D08DADA33F3270E"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Physics/Legacy/LegacyPhysicsSimulation.cs.meta",
+      "sha256": "995E40F8C18930DC3B1DF1601EE6D956824B9FE37C7046670A47DEAF9084E55C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattleComparisonEntryPoint.cs",
+      "sha256": "861E5E07FDFFB1BA6DC11D9553FE91F50BAE80065BDA5E446D4F5D6BBDC9BE6A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattleComparisonEntryPoint.cs.meta",
+      "sha256": "8402C5AACC85D27A874712CBBA68D9EE3D504F3C21E674A2BC5115191FAD70BE"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlefieldView.cs",
+      "sha256": "09F0C6F2E0C07C78A463CA3E862B6DC79DC31662BAEBA4A129BD6A104C726F1F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlefieldView.cs.meta",
+      "sha256": "8A5E4FA55A1FEAF6EF0C8B94D9859ADF5982BE03657E626CE1B100AEDF9BEFA0"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlePanelView.cs",
+      "sha256": "5D7C1B5C8E67C7DE32BFC3E3C564C30BD097BB4D05930D9B58B4BFC1A3BBEE83"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlePanelView.cs.meta",
+      "sha256": "82B1078B1C86E9DD1E942EECD72E85E2A228914925BC320D6D0DAF2EB82FA1D6"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlePerformancePanel.cs",
+      "sha256": "4A3E87DD674B65D8987DE8B9CCCCE29ADE0C84F1CC2B51611B7A29BF5FD010C4"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattlePerformancePanel.cs.meta",
+      "sha256": "558EEC386BD38FA7BB47AD28F17D2A3E7DACE2E1B7392718E637B009183FA534"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattleWorldView.cs",
+      "sha256": "190932C867A799F2EFCF6B788F7FB03DCF3A559B00F452DD59F15970EAF1FA2A"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/BattleWorldView.cs.meta",
+      "sha256": "2A56026D1A7B3F8198F42E1B44C723B0AA4FC090ED723D8E44F7A78AD3B27CEA"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/LargeBattleValidation.cs",
+      "sha256": "AE9675F88C24CB5E048B9E2312B95959B888E3B7B053A951712465C47BEE91B5"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/LargeBattleValidation.cs.meta",
+      "sha256": "2193B2A9E9496C1D75FC85DC0AB16E7769BC55A31AAC12847F7EB15CC65C986F"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/PlayerValidation.cs",
+      "sha256": "D037F90956802B94F135CA5D953B1284E9564ABEEB7C7A8114035261E2820C4C"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/PlayerValidation.cs.meta",
+      "sha256": "6D159E7C8BD26145683E02D4A9033A635969D8DC0C59E56C862B76313339754D"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/UnitAnimationSet.cs",
+      "sha256": "8767D0DEBACA86BA2DB32045394FC8D7CD975AA9316E61A894A628B1F1EBD4D0"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Scripts/Presentation/UnitAnimationSet.cs.meta",
+      "sha256": "642B5F711A037BC208478E0F07B5AAA81BC0F910033C47F4B21BB621AD705225"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/EditMode.meta",
+      "sha256": "6EDE95ADAE048877764AC233515A6AC34734588B2706E42BD4E94C22CA9F5959"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/PlayMode.meta",
+      "sha256": "9A6D885BFD2AADF6C0E82DA9975442E441E32EBDCF67280C1045E43EB2999462"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/EditMode/BattleContractTests.cs",
+      "sha256": "31A0C54AB99045E1D99F0B062E03236EB223D4713E2B49C5E5CF75FE55A0B288"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/EditMode/BattleContractTests.cs.meta",
+      "sha256": "46825D0C17EA77C7D5ECDC1AE6BD58B30A2ABAF439EC1A4A7FA0AD8BD913D8A0"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/EditMode/PhysicsComparisonLab.EditModeTests.asmdef",
+      "sha256": "7BC9B5CCC4F57F6AF2DC87BA2A08002B7A2795BC86DA2F472FE5908169D2B7E7"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/EditMode/PhysicsComparisonLab.EditModeTests.asmdef.meta",
+      "sha256": "7B3DA1C76B6D16C690DE16CFD2ACD66F6AC1D0F643E965A404F7D229C40A5221"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/PlayMode/BattleSessionTests.cs",
+      "sha256": "B1428246C6541445BACE55E88055BF01A9BE50CDA71149DD86D5D983B7CDED01"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/PlayMode/BattleSessionTests.cs.meta",
+      "sha256": "0EE713CCF9DC6C1A70317237B91FF9CB30B9581FEC26C299E51C980BF85E8EF8"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/PlayMode/PhysicsComparisonLab.PlayModeTests.asmdef",
+      "sha256": "8134A10B6B98C01E82D2FAF8D5CC43089363678FF5891D7932745CF6848D30FC"
+    },
+    {
+      "path": "Assets/PhysicsComparisonLab/Tests/PlayMode/PhysicsComparisonLab.PlayModeTests.asmdef.meta",
+      "sha256": "0B55AE22D3BCDAB20530A77CB214CC9204FBCAF37513FFF6422AF99B851F9F2C"
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity",
+      "sha256": "7BF8159640E37E4A70FFBF25E3FE7058693686D56EE1149951E926E47CAA7D94"
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity.meta",
+      "sha256": "E7391FF924B7DEFDF30E0B0B235F8113618481C93F567E0C699C8895A9534579"
+    },
+    {
+      "path": "Assets/Screenshots/legacy-result-1920.png",
+      "sha256": "B6AB22550335FDB560672231993BB4088BC1F0C07B469F2B3AE024572FD53522"
+    },
+    {
+      "path": "Assets/Screenshots/legacy-result-1920.png.meta",
+      "sha256": "C95A9761074D248BEC8D9BC06DFEB1B3E2C0F5ACA50741CBA90FD652FF7134D8"
+    },
+    {
+      "path": "Assets/Screenshots/ready-1920.png",
+      "sha256": "464297A13AF0C2CE39FD1CD2AC504E2C01CECB5BC68A8943D71B187A23BF791C"
+    },
+    {
+      "path": "Assets/Screenshots/ready-1920.png.meta",
+      "sha256": "BC984B58FF383592D45C9C4846EA53646144BBB25479EC1BA1816534BD2E5DA0"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "sha256": "BD9CBA621BB9CF6AF9338C85F371E7DE40326DAB7BB64EFE92FAE81925D53786"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "sha256": "CA6D9E086F19E1FCB6FD5A92EF8C54B6B69635CA66D4B1B8F309F3188D204D72"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "sha256": "AEEDEB3243F07B61DBBE854AA08B5EF6F0B5274DD9852AD9F6129DDE3E105A31"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "sha256": "40E65DD214BF254955D2C8829CA8CE2130FD3510485560CE012E9A1DDD93E623"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "sha256": "BCBDE4B212B462560AE157F8F3E3EA32AA74CA4723091AE017A27442EB816F57"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "sha256": "451FDB4A0F91C873C83940B68D7A0DC341083B97A144E38645895F6A07670414"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "sha256": "1B425E311354F85B61B2E209EBE34F2EF51EA1FB9EB8F9F7C4DE8CBE18D5ED2E"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "sha256": "EABBFF5716068338470F2437B4F4E784357B40AC60A657EF9D2CCFB8C094D302"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "sha256": "7A1BB836A1008D26D0860D143E9D9DF7CA41731D30A72901B518063819C62DF2"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "sha256": "1E8379A461B10AE09F3F696911088C16875D63E87ED5F2D95DF9E1892703F9FD"
+    },
+    {
+      "path": "ProjectSettings/MultiplayerManager.asset",
+      "sha256": "ABA89FD1A1DDAD182727AD82727E536D27372E90328A8196DA2A4560398983DD"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "sha256": "28DB9A32B1EEBD40FB57B40367780AE2C7722D9268F1F5249E4E09C617046A19"
+    },
+    {
+      "path": "ProjectSettings/NetworkManager.asset",
+      "sha256": "46395DEF99A6B5AE38EBB19B3E18F75215A9D4172C219361521A5A51E051F386"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "sha256": "1CA2C27575F2AAE289D28C0FC8BBF77D5D4D203F2A1B6E9FFDC0454F20238EF9"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "sha256": "1CFC0C8FBCEEC604FD7CD2A06C04FF05DDDEE6335B75C92B0F5715AD80BA9490"
+    },
+    {
+      "path": "ProjectSettings/PhysicsCoreProjectSettings2D.asset",
+      "sha256": "BEDC5339A832C60DC3F11B84ABC4F4384DBFA20B0CD9AD6C444B907E751FC35E"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "sha256": "29C125923FE6E29F90190D4FCE1C82D660E7051546E2C9D02908D18C9CF2436C"
+    },
+    {
+      "path": "ProjectSettings/ProjectAuditorSettings.asset",
+      "sha256": "22C699D7B424BD59053E552E6C358D9CCA02D0663C276EC46EA0D0BD96651D85"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "sha256": "E41EB414969D1D128A08E12C9A99D9FA8564A502BC3BDB92E7CE6528A3B204B0"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "sha256": "65532CE9DE55509CBF186A332F027F49C2E4012CA5327B27E595C8245A327830"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "sha256": "9A4AA5B283860396E2EB19AA39B9B22B1C4CA8BFFA94C4438345347259D5F777"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "sha256": "BB9098B3BFCDE78D93E264B96F7B77B5430E64E8C57A7AAD7F5A5D9C3945E16A"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "sha256": "8E18B1C820E9C09E16BBD1F1B7842E9FB3B0158A0921B0964E0B8FA12C6E2C01"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "sha256": "1A83E54ADBBDA7C9F4851103A0C6AB7F6448A3343D4EA5B7620452FA08416ECD"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "sha256": "B7DD1E8290598F5CE86919BA1C98B42B766C8C42191A30FA2C4D12195C4ECD00"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "sha256": "E7BDA45BF7A394745FEE1316E6C71FA676004D591AD1F3AA247FD3E4CEB86071"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "sha256": "E3E4BFB04F4A57154463C5B7313B79F93980BB5714BE84E10D52944056F5C023"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "sha256": "EDD2BEB4A2E388312B4B7DA241AA51070434005D82C59363F1237DD2E567585F"
+    },
+    {
+      "path": "Documentation/Benchmarks/EditorComparison.cs",
+      "sha256": "0D650003059E0460AD5B2047AC1D47FA75EE2CDC2EF11317C4FB79569881E5A6"
+    }
+  ],
+  "date": "2026-10-28",
+  "note": "190 existing Assets, Packages and ProjectSettings files verified unchanged from pre-measurement SHA256; plus exact ephemeral harness source"
+}

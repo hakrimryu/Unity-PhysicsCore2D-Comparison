@@ -1,0 +1,18 @@
+UTC=2026-10-28T11:08:32.7806830Z
+Unity=6000.5.8f1
+OS=Windows 11  (10.0.26200)
+CPU=AMD Ryzen 7 7800X3D 8-Core Processor 
+LogicalProcessors=16
+RAM_MB=64681
+GPU=NVIDIA GeForce RTX 5070 Ti
+GraphicsAPI=Direct3D12
+Screen=1920x1080
+Mode=Editor diagnostic; Built-in; Mono; Profiler disabled; vsync=0; frame cap=-1
+Pacing=unpaced; at most 8 fixed steps per rendered frame; dt=1/60; seed=12345
+Scope=CPU wall time of calls; not FPS, GPU time, worker CPU sum, memory or GC benchmark
+FixedLoad=120 warmup + 600 measured steps; deaths disabled, AI/contacts/attacks enabled
+Battle=step 1 to result or 1800; warmup uses a separate disposable battle
+Presentation=none or shared mesh Refresh per step; UI and camera tracking disabled
+Order=Legacy/Core on odd repetitions, Core/Legacy on even repetitions; 5 repetitions
+Creation=backend and combat state only; excludes view construction; not a steady-state sample
+Statistics=per-run nearest-rank p50/p95; summary aggregation is documented separately

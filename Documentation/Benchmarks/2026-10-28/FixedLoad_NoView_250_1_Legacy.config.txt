@@ -1,0 +1,1 @@
+Physics2D Script; velocity iterations=8; position iterations=3; discrete; sleep=StartAwake; mass=1

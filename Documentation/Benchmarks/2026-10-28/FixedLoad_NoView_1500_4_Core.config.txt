@@ -1,0 +1,1 @@
+Core Script; substeps=4; workers=16; sleep=True; awake=3000; contactFrequency=30; contactDamping=10; contactSpeed=3; density=1/(pi*r*r); automatic CCD threshold=0.5

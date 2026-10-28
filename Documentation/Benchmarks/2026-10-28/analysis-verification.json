@@ -1,0 +1,14 @@
+{
+  "runs": 160,
+  "samples": 90579,
+  "groups": 32,
+  "validated": true,
+  "checks": [
+    "five repeats per group",
+    "continuous sample steps",
+    "fixed-load population",
+    "native and total nearest-rank p50/p95 recalculated"
+  ],
+  "analysisPython": "3.13.2",
+  "matplotlib": "3.11.2"
+}

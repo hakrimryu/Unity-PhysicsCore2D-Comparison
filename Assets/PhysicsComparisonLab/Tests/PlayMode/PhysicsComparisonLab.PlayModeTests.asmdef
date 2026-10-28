@@ -1,0 +1,5 @@
+{
+    "name": "PhysicsComparisonLab.PlayModeTests",
+    "references": ["PhysicsComparisonLab", "Unity.Collections", "Unity.ugui"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

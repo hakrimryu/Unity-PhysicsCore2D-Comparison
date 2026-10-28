@@ -1,0 +1,6 @@
+{
+    "name": "PhysicsComparisonLab.EditModeTests",
+    "references": ["PhysicsComparisonLab", "Unity.Collections"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

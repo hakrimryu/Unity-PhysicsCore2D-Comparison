@@ -1,0 +1,239 @@
+{
+  "EditMode": {
+    "summary": {
+      "Total": 25,
+      "Passed": 25,
+      "Failed": 0,
+      "Skipped": 0,
+      "Inconclusive": 0
+    },
+    "durationSeconds": 3.67,
+    "results": [
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.DuplicateHitsKillOnceAndDeadTargetRemainsLockedUntilCycleEnds",
+        "Status": "Passed",
+        "Duration": 0.0127851,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.HitAtAPlus18KillsBothAndNeverHitsAfterFinish",
+        "Status": "Passed",
+        "Duration": 0.0011041,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.ImportedAnimationKeepsTimingAndFootPivot(\"Soldier\")",
+        "Status": "Passed",
+        "Duration": 0.0127572,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.ImportedAnimationKeepsTimingAndFootPivot(\"Orc\")",
+        "Status": "Passed",
+        "Duration": 0.0016777,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"\")",
+        "Status": "Passed",
+        "Duration": 0.0001543,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\" \")",
+        "Status": "Passed",
+        "Duration": 5.56E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"abc\")",
+        "Status": "Passed",
+        "Duration": 5.2E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"-1\")",
+        "Status": "Passed",
+        "Duration": 5.11E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"1.0\")",
+        "Status": "Passed",
+        "Duration": 0.0001305,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"0\")",
+        "Status": "Passed",
+        "Duration": 5.6E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\"above-limit\")",
+        "Status": "Passed",
+        "Duration": 5.58E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.InvalidInputIsRejected(\" 1\")",
+        "Status": "Passed",
+        "Duration": 5.47E-05,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.MaximumDeploymentIsBoundedRepeatableAndNonOverlapping",
+        "Status": "Passed",
+        "Duration": 0.0551008,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.NativeBackendActuallyMovesQueriesAndReleases(False)",
+        "Status": "Passed",
+        "Duration": 0.0013966,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.NativeBackendActuallyMovesQueriesAndReleases(True)",
+        "Status": "Passed",
+        "Duration": 0.0021165,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.NearestTieUsesSmallestId",
+        "Status": "Passed",
+        "Duration": 0.0002748,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.ReattackIsExactlyAPlus36AndOneHitPerAttack",
+        "Status": "Passed",
+        "Duration": 0.0002875,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.SpatialSearchMatchesExactNearestAcrossMovementAndDeaths",
+        "Status": "Passed",
+        "Duration": 0.0197303,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.SpawnIsRepeatableInsideBoundaryWithoutOverlap(1)",
+        "Status": "Passed",
+        "Duration": 0.000483,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.SpawnIsRepeatableInsideBoundaryWithoutOverlap(25)",
+        "Status": "Passed",
+        "Duration": 0.0029735,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.SpawnIsRepeatableInsideBoundaryWithoutOverlap(250)",
+        "Status": "Passed",
+        "Duration": 0.258295,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.TargetDepartureMissesAndDoesNotRetargetMidAttack",
+        "Status": "Passed",
+        "Duration": 0.0003983,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.UnopposedFirstHitProducesCorrectWinner(0,Soldier)",
+        "Status": "Passed",
+        "Duration": 0.0004507,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.UnopposedFirstHitProducesCorrectWinner(1,Orc)",
+        "Status": "Passed",
+        "Duration": 0.0001028,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleContractTests.UnresolvedBattleTimesOutAt1800",
+        "Status": "Passed",
+        "Duration": 0.0019644,
+        "Message": null,
+        "StackTrace": null
+      }
+    ]
+  },
+  "scope": "Editor tests, no new Player build",
+  "PlayMode": {
+    "summary": {
+      "total": 5,
+      "passed": 5,
+      "failed": 0,
+      "skipped": 0,
+      "inconclusive": 0
+    },
+    "durationSeconds": 8.61,
+    "results": [
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleSessionTests.BothBackendsCompleteMatrixAndTenResetsWithoutLeaks",
+        "Status": "Passed",
+        "Duration": 2.9084478,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleSessionTests.CountAdjustmentButtonsAddClampAndUseConfiguredMaximum",
+        "Status": "Passed",
+        "Duration": 0.6173871,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleSessionTests.InvalidUiInputsDisableStartAndBothSpeedsUseSameSteps",
+        "Status": "Passed",
+        "Duration": 0.3388637,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleSessionTests.MaximumArmiesActuallyRunAndReleaseInEditor",
+        "Status": "Passed",
+        "Duration": 3.54976,
+        "Message": null,
+        "StackTrace": null
+      },
+      {
+        "FullName": "PhysicsComparisonLab.Tests.BattleSessionTests.SidebarReservesSpaceAndShowsSeparateLiveArmies",
+        "Status": "Passed",
+        "Duration": 1.1591112,
+        "Message": null,
+        "StackTrace": null
+      }
+    ]
+  },
+  "date": "2026-10-28",
+  "unity": "6000.5.8f1"
+}

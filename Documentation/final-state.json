@@ -1,0 +1,37 @@
+{
+  "editor": {
+    "playing": false,
+    "scene": "Assets/PhysicsComparisonLab/Scenes/BattleComparison.unity",
+    "dirty": false,
+    "worlds": 1,
+    "bodies": 0,
+    "benchmarkHosts": 0,
+    "simulationMode": "FixedUpdate",
+    "cap": -1,
+    "vsync": 0,
+    "profiler": false
+  },
+  "preservation": {
+    "existingFiles": 190,
+    "temporaryCaptureAssetsRemoved": true,
+    "missing": 0,
+    "changed": 0,
+    "editorToolsRemainRemoved": true
+  },
+  "compile": {
+    "status": "up_to_date",
+    "compiling": false,
+    "failed": false,
+    "compilationFailed": null,
+    "errors": [],
+    "warnings": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "console": {
+    "errors": 0,
+    "warnings": 0
+  }
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "file": "Images/ready.png",
+    "capturedUtc": "2026-10-28T10:57:14.1756314Z",
+    "width": 1920,
+    "height": 1080,
+    "source": "Unity Editor Game View; original unedited PNG",
+    "description": "Ready; 25 vs 25; step 0",
+    "state": null,
+    "sha256": "32583733777C114D4B61A36F6F6DFC8F5D5054480A4B67AAE22D8343D173AE93"
+  },
+  {
+    "file": "Images/legacy-battle.png",
+    "capturedUtc": "2026-10-28T10:58:12.4130908Z",
+    "width": 1920,
+    "height": 1080,
+    "source": "Unity Editor Game View; original unedited PNG",
+    "description": "Paused; Physics2D; 250 vs 250; step 120",
+    "state": {
+      "IsCore": false,
+      "StepIndex": 120,
+      "HitCount": 40,
+      "SoldierAlive": 231,
+      "OrcAlive": 229,
+      "ViewCount": 500,
+      "width": 1920,
+      "height": 1080
+    },
+    "sha256": "CA41ED105970413E240457AA3B1F7AAC2F96303C2B3A811D49B3CA53F86DC171"
+  },
+  {
+    "file": "Images/core-battle.png",
+    "capturedUtc": "2026-10-28T10:58:50.2988200Z",
+    "width": 1920,
+    "height": 1080,
+    "source": "Unity Editor Game View; original unedited PNG",
+    "description": "Paused; PhysicsCore2D; 250 vs 250; step 120",
+    "state": {
+      "IsCore": true,
+      "StepIndex": 120,
+      "HitCount": 43,
+      "SoldierAlive": 229,
+      "OrcAlive": 228,
+      "ViewCount": 500
+    },
+    "sha256": "911B0D499E9209D8FE017142F7166FED64EC6942E035F10E305A70E251D7F994"
+  },
+  {
+    "file": "Images/core-5000-units.png",
+    "capturedUtc": "2026-10-28T11:04:15.6397686Z",
+    "width": 1920,
+    "height": 1080,
+    "source": "Unity Editor Game View; original unedited PNG",
+    "description": "Paused; PhysicsCore2D; 2500 vs 2500; step 120",
+    "state": {
+      "IsCore": true,
+      "StepIndex": 120,
+      "HitCount": 131,
+      "SoldierAlive": 2437,
+      "OrcAlive": 2435,
+      "ViewCount": 5000,
+      "BodyCount": 4876,
+      "ShapeCount": 4876
+    },
+    "sha256": "DC96AEC623A9530055627A91B58A5FEE6ACB19D1AC7B3214898B531DBD17061F"
+  },
+  {
+    "file": "Images/battle-result.png",
+    "capturedUtc": "2026-10-28T11:04:39.0719709Z",
+    "width": 1920,
+    "height": 1080,
+    "source": "Unity Editor Game View; original unedited PNG",
+    "description": "Finished; PhysicsCore2D; 25 vs 25; real-time 1x",
+    "state": {
+      "IsCore": true,
+      "IsFinished": true,
+      "Speed": 1,
+      "StepIndex": 280,
+      "HitCount": 46,
+      "SoldierAlive": 4,
+      "OrcAlive": 0,
+      "result": "Soldier",
+      "ViewCount": 4
+    },
+    "sha256": "D2AC1150E07AA289A441168708B2E518760FCC1A10E3C1859A63F812E4B55773"
+  }
+]

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddfb8764745d88741ad797f4959d0062, type: 3}
+  m_Name: SoldierAnimation
+  m_EditorClassIdentifier: PhysicsComparisonLab::PhysicsComparisonLab.Presentation.UnitAnimationSet
+  _idle:
+  - {fileID: 228919948, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  - {fileID: 807508843, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  - {fileID: 1406517032, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  - {fileID: -1724877286, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  - {fileID: 2076490455, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  - {fileID: 1082996495, guid: 65031f26ec1725142aea8e2f0950abff, type: 3}
+  _walk:
+  - {fileID: 2109232048, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: -796558325, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: 338945109, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: 1178070945, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: 1056312476, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: 183864320, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: -716066740, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  - {fileID: 1133479415, guid: 234f7121ff206fb419c1a22664363650, type: 3}
+  _attack:
+  - {fileID: -1198488762, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  - {fileID: 1786286935, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  - {fileID: -2044779002, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  - {fileID: 334948851, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  - {fileID: 368702612, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  - {fileID: -1425742526, guid: af64e95e15ec6db4887af17b84672235, type: 3}
+  _death:
+  - {fileID: -2059663367, guid: 883646364ef08574fa2bd6a2f0c1e07e, type: 3}
+  - {fileID: 711890109, guid: 883646364ef08574fa2bd6a2f0c1e07e, type: 3}
+  - {fileID: 1360166114, guid: 883646364ef08574fa2bd6a2f0c1e07e, type: 3}
+  - {fileID: 261121734, guid: 883646364ef08574fa2bd6a2f0c1e07e, type: 3}
+  _deathDurations:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.6
+  _frameDuration: 0.1

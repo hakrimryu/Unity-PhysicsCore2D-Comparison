@@ -1,0 +1,64 @@
+[English](tables.en.md) · [日本語](tables.ja.md) · [한국어](tables.md)
+
+# Editor measurement statistics
+
+These tables collect 5 runs per condition. Unit counts are per side; survivors are the total remaining across both sides when the battle ends. Times are milliseconds (ms) per step, with lower values indicating less processing time.
+
+p50 is the median, and p95 is the value at the 95% point after sorting samples from fastest to slowest. Statistics are calculated for each run first, then the median of the 5 per-run values is reported below. The “mean” columns likewise show the median of the 5 run means. Final-step and survivor ranges are the minimum–maximum across the 5 runs.
+
+Physics simulation, attack queries, shared logic, position readback, and mesh updates were recorded separately. Different statistics cannot be added to obtain a total, and mesh updates exclude GPU rendering time. See the [measurement methodology](../README.en.md) for the conditions.
+
+## Fixed load · no visual updates (FixedLoad / NoView)
+
+| Units per side | Engine | Physics p50 | Physics p95 | Attack query mean | Shared logic mean | Position readback mean | Mesh update mean | Total p50 | Total p95 | Final-step range | Survivor range |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|
+| 25 | Physics2D | 0.0359 | 0.0582 | 0.0040 | 0.0093 | 0.0034 | 0.0000 | 0.0466 | 0.0920 | 720–720 | 50–50 |
+| 25 | PhysicsCore2D | 0.0405 | 0.0649 | 0.0046 | 0.0113 | 0.0037 | 0.0000 | 0.0555 | 0.1069 | 720–720 | 50–50 |
+| 100 | Physics2D | 0.3015 | 0.4065 | 0.0113 | 0.0847 | 0.0138 | 0.0000 | 0.3548 | 0.7299 | 720–720 | 200–200 |
+| 100 | PhysicsCore2D | 0.1288 | 0.1838 | 0.0093 | 0.0877 | 0.0135 | 0.0000 | 0.1878 | 0.5432 | 720–720 | 200–200 |
+| 250 | Physics2D | 0.9702 | 1.1942 | 0.0189 | 0.2744 | 0.0397 | 0.0000 | 1.1102 | 2.3714 | 720–720 | 500–500 |
+| 250 | PhysicsCore2D | 0.2466 | 0.3226 | 0.0177 | 0.2785 | 0.0319 | 0.0000 | 0.3866 | 1.5694 | 720–720 | 500–500 |
+| 1,500 | Physics2D | 7.1841 | 7.9685 | 0.1142 | 2.1437 | 0.2806 | 0.0000 | 8.1589 | 18.6266 | 720–720 | 3000–3000 |
+| 1,500 | PhysicsCore2D | 0.8130 | 1.0003 | 0.0848 | 2.1048 | 0.1904 | 0.0000 | 1.5914 | 11.4795 | 720–720 | 3000–3000 |
+| 2,500 | Physics2D | 13.4339 | 15.0240 | 0.1506 | 3.8384 | 0.5059 | 0.0000 | 14.9513 | 34.3015 | 720–720 | 5000–5000 |
+| 2,500 | PhysicsCore2D | 1.2275 | 1.4334 | 0.1303 | 3.6818 | 0.3197 | 0.0000 | 2.5273 | 19.9336 | 720–720 | 5000–5000 |
+
+
+## Fixed load · mesh updates included (FixedLoad / Mesh)
+
+| Units per side | Engine | Physics p50 | Physics p95 | Attack query mean | Shared logic mean | Position readback mean | Mesh update mean | Total p50 | Total p95 | Final-step range | Survivor range |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|
+| 25 | Physics2D | 0.0353 | 0.0631 | 0.0040 | 0.0089 | 0.0035 | 0.0208 | 0.0655 | 0.1168 | 720–720 | 50–50 |
+| 25 | PhysicsCore2D | 0.0463 | 0.0716 | 0.0050 | 0.0113 | 0.0038 | 0.0237 | 0.0822 | 0.1407 | 720–720 | 50–50 |
+| 100 | Physics2D | 0.3100 | 0.4192 | 0.0117 | 0.0830 | 0.0132 | 0.0653 | 0.4274 | 0.7968 | 720–720 | 200–200 |
+| 100 | PhysicsCore2D | 0.1325 | 0.1903 | 0.0097 | 0.0883 | 0.0138 | 0.0680 | 0.2584 | 0.6160 | 720–720 | 200–200 |
+| 250 | Physics2D | 1.0082 | 1.2590 | 0.0195 | 0.2678 | 0.0388 | 0.1488 | 1.3060 | 2.5198 | 720–720 | 500–500 |
+| 250 | PhysicsCore2D | 0.2525 | 0.3282 | 0.0185 | 0.2770 | 0.0323 | 0.1592 | 0.5508 | 1.7865 | 720–720 | 500–500 |
+| 1,500 | Physics2D | 7.6342 | 8.3249 | 0.1174 | 2.1570 | 0.2898 | 0.8290 | 9.4491 | 19.9644 | 720–720 | 3000–3000 |
+| 1,500 | PhysicsCore2D | 0.8844 | 1.0441 | 0.0869 | 2.0903 | 0.1947 | 0.8658 | 2.5452 | 12.2499 | 720–720 | 3000–3000 |
+| 2,500 | Physics2D | 13.4643 | 15.3996 | 0.1324 | 3.8246 | 0.5217 | 1.3791 | 16.4155 | 35.5988 | 720–720 | 5000–5000 |
+| 2,500 | PhysicsCore2D | 1.2782 | 1.4814 | 0.1315 | 3.6809 | 0.3193 | 1.4236 | 4.0000 | 21.2994 | 720–720 | 5000–5000 |
+
+
+## Regular battle · no visual updates (Battle / NoView)
+
+| Units per side | Engine | Physics p50 | Physics p95 | Attack query mean | Shared logic mean | Position readback mean | Mesh update mean | Total p50 | Total p95 | Final-step range | Survivor range |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|
+| 25 | Physics2D | 0.0122 | 0.0255 | 0.0013 | 0.0160 | 0.0024 | 0.0000 | 0.0245 | 0.0902 | 264–264 | 3–3 |
+| 25 | PhysicsCore2D | 0.0312 | 0.0496 | 0.0015 | 0.0143 | 0.0024 | 0.0000 | 0.0451 | 0.1007 | 280–280 | 4–4 |
+| 100 | Physics2D | 0.0780 | 0.1241 | 0.0042 | 0.0753 | 0.0069 | 0.0000 | 0.1298 | 0.4149 | 458–585 | 0–10 |
+| 100 | PhysicsCore2D | 0.0651 | 0.1108 | 0.0047 | 0.0793 | 0.0079 | 0.0000 | 0.1229 | 0.4170 | 453–453 | 8–8 |
+| 250 | Physics2D | 0.4006 | 0.7647 | 0.0100 | 0.2557 | 0.0191 | 0.0000 | 0.6387 | 1.6289 | 662–878 | 3–23 |
+| 250 | PhysicsCore2D | 0.1616 | 0.2675 | 0.0097 | 0.2352 | 0.0171 | 0.0000 | 0.3375 | 1.0430 | 811–811 | 3–3 |
+
+
+## Regular battle · mesh updates included (Battle / Mesh)
+
+| Units per side | Engine | Physics p50 | Physics p95 | Attack query mean | Shared logic mean | Position readback mean | Mesh update mean | Total p50 | Total p95 | Final-step range | Survivor range |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|
+| 25 | Physics2D | 0.0112 | 0.0231 | 0.0011 | 0.0134 | 0.0021 | 0.0164 | 0.0394 | 0.0945 | 264–264 | 3–3 |
+| 25 | PhysicsCore2D | 0.0317 | 0.0466 | 0.0017 | 0.0136 | 0.0026 | 0.0176 | 0.0630 | 0.1206 | 280–280 | 4–4 |
+| 100 | Physics2D | 0.0800 | 0.1392 | 0.0041 | 0.0728 | 0.0075 | 0.0428 | 0.1875 | 0.4894 | 442–527 | 5–9 |
+| 100 | PhysicsCore2D | 0.0662 | 0.1153 | 0.0051 | 0.0781 | 0.0079 | 0.0460 | 0.1802 | 0.4733 | 453–453 | 8–8 |
+| 250 | Physics2D | 0.3974 | 0.8021 | 0.0102 | 0.2494 | 0.0193 | 0.0920 | 0.7174 | 1.8143 | 712–835 | 6–19 |
+| 250 | PhysicsCore2D | 0.1715 | 0.2729 | 0.0102 | 0.2379 | 0.0171 | 0.0918 | 0.4624 | 1.2364 | 811–811 | 3–3 |

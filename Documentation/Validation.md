@@ -1,6 +1,10 @@
+[English](Validation.en.md) · [日本語](Validation.ja.md) · [한국어](Validation.md)
+
 # Editor 기능 검증 기록
 
 2026-10-28에 Unity 6000.5.8f1, Built-in, Windows Editor 환경에서 전투 동작을 확인했습니다. 아래는 자동 테스트와 별도 실행에서 실제로 확인한 범위입니다.
+
+[프로젝트 README로 돌아가기](../README.ko.md)
 
 ## 자동 테스트
 

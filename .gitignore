@@ -117,6 +117,3 @@ __pycache__/
 
 # Third-party art: game use is allowed, asset redistribution is prohibited.
 /Assets/PhysicsComparisonLab/Art/**/*.png
-
-# README files are held back from the initial public release.
-[Rr][Ee][Aa][Dd][Mm][Ee].[Mm][Dd]
